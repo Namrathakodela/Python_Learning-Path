@@ -1,5 +1,33 @@
-# 04 Functions
+# Functions
 
-Functions, parameters, arguments, return values, lambda functions, and recursion.
+This section contains my learning and practice with Python functions.
 
-Add your own notes, programs, and practice here as you learn.
+## Concepts Learned
+
+- Defining functions
+- Calling functions
+- Parameters
+- Arguments
+- Return values
+- Default arguments
+- Keyword arguments
+- *args
+- **kwargs
+- Lambda functions
+- Recursion
+
+## Programs
+
+- Basic functions
+- Function arguments
+- Return values
+- Default arguments
+- Keyword arguments
+- Variable-length arguments
+- Lambda functions
+- Recursive factorial
+- Recursive Fibonacci
+
+## Key Learning
+
+Functions help divide a program into reusable blocks of code, making programs easier to understand, maintain, and reuse.
